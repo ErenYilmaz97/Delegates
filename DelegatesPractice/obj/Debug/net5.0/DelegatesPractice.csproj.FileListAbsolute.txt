@@ -1,0 +1,16 @@
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\DelegatesPractice.csprojAssemblyReference.cache
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\DelegatesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\DelegatesPractice.AssemblyInfoInputs.cache
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\DelegatesPractice.AssemblyInfo.cs
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\DelegatesPractice.csproj.CoreCompileInputs.cache
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\bin\Debug\net5.0\DelegatesPractice.exe
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\bin\Debug\net5.0\DelegatesPractice.deps.json
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\bin\Debug\net5.0\DelegatesPractice.runtimeconfig.json
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\bin\Debug\net5.0\DelegatesPractice.runtimeconfig.dev.json
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\bin\Debug\net5.0\DelegatesPractice.dll
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\bin\Debug\net5.0\ref\DelegatesPractice.dll
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\bin\Debug\net5.0\DelegatesPractice.pdb
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\DelegatesPractice.dll
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\ref\DelegatesPractice.dll
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\DelegatesPractice.pdb
+C:\Users\eren_\Desktop\örnekc#\DelegatesPractice\DelegatesPractice\obj\Debug\net5.0\DelegatesPractice.genruntimeconfig.cache
